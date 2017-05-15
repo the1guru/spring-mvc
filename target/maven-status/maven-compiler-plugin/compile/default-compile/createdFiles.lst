@@ -1,0 +1,5 @@
+com\edocti\jnext\spring\mvc\VehicleService.class
+com\edocti\jnext\spring\mvc\Vehicle.class
+com\edocti\jnext\spring\mvc\VehicleController.class
+com\edocti\jnext\spring\mvc\VehicleDao.class
+com\edocti\jnext\spring\mvc\VehicleServiceImpl.class
